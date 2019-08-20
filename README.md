@@ -9,7 +9,7 @@ Jalmus is developed in Java and so available on Microsoft Windows, Linux and Mac
 
 A compatible MIDI controller with USB MIDI capabilities
 
-### How do I get Jalmus working with my MIDI controller on macOS?
+### How do I get Jalmus working with my MIDI controller on macOS 10.14 (Mojave) or later?
 
 1. Download the [latest release of Core4MidiJ](https://github.com/DerekCook/CoreMidi4J/releases)
 
