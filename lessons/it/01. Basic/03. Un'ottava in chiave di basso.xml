@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+Document : An octave on bass clef.xml
+Created on : 18 avril 2007, 15:11
+Author : RICHARD Christophe
+Description: first lesson to learn notes on bass clef
+-->
+
+<levels>
+<notereading id = '0'>
+<message>Per cominciare lavoriamo lentamente sulle tre note MI FA SOL</message>
+<game>learning</game>
+<learningduration>15</learningduration>
+<clef>bass</clef>
+<notes>notes</notes>
+<nbnotes>3</nbnotes>
+<speed>20</speed>
+<startingnote>0</startingnote>
+</notereading>
+
+<notereading id = '1'>
+<message>Ora le stesse note MI FA SOL, senza aiuto, fino al riempimento della barra sottostante</message>
+<game>normal</game>
+<clef>bass</clef>
+<notes>notes</notes>
+<nbnotes>3</nbnotes>
+<speed>15</speed>
+<startingnote>0</startingnote>
+</notereading>
+
+<notereading id = '2'>
+<message>Prossime tre note: SOL LA SI</message>
+<game>learning</game>
+<learningduration>15</learningduration>
+<clef>bass</clef>
+<notes>notes</notes>
+<nbnotes>3</nbnotes>
+<speed>20</speed>
+<startingnote>2</startingnote>
+</notereading>
+
+<notereading id = '3'>
+<message>Stesse note SOL LA SI, senza aiuto, fino al riempimento della barra sottostante</message>
+<game>normal</game>
+<clef>bass</clef>
+<notes>notes</notes>
+<nbnotes>3</nbnotes>
+<speed>15</speed>
+<startingnote>2</startingnote>
+</notereading>
+
+<notereading id = '4'>
+<message>Prossime tre note: DO RE MI</message>
+<game>learning</game>
+<learningduration>15</learningduration>
+<clef>bass</clef>
+<notes>notes</notes>
+<nbnotes>3</nbnotes>
+<speed>20</speed>
+<startingnote>-2</startingnote>
+</notereading>
+
+<notereading id = '5'>
+<message>Stesse note DO RE MI, senza aiuto, fino al riempimento della barra sottostante</message>
+<game>normal</game>
+<clef>bass</clef>
+<notes>notes</notes>
+<nbnotes>3</nbnotes>
+<speed>15</speed>
+<startingnote>-2</startingnote>
+</notereading>
+
+<notereading id = '6'>
+<message>Tutte le note DO RE MI FA SOL LA SI</message>
+<game>learning</game>
+<learningduration>30</learningduration>
+<clef>bass</clef>
+<notes>notes</notes>
+<nbnotes>7</nbnotes>
+<speed>20</speed>
+</notereading>
+
+<notereading id = '6'>
+<message>Tutte le note in linea, è necessario suonare la prima nota della linea</message>
+<game>inline</game>
+<clef>bass</clef>
+<notes>notes</notes>
+<nbnotes>7</nbnotes>
+<speed>30</speed>
+</notereading>
+
+</levels>

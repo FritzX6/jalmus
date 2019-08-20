@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+Document : Bass notes on bass clef.xml
+Created on : 18 avril 2007, 15:11
+Author : RICHARD Christophe
+Description: to learn bass notes on bass clef (only for 73 keys and using transposition)
+-->
+
+<levels>
+<notereading id = '0'>
+<message>Per cominciare lavoriamo lentamente sulle cinque note LA SI DO RE MI</message>
+<game>learning</game>
+<learningduration>15</learningduration>
+<clef>bass</clef>
+<notes>notes</notes>
+<nbnotes>5</nbnotes>
+<speed>20</speed>
+<startingnote>-10</startingnote>
+</notereading>
+
+<notereading id = '1'>
+<message>Ora le stesse note senza aiuto, fino al riempimento della barra sottostante</message>
+<game>normal</game>
+<clef>bass</clef>
+<notes>notes</notes>
+<nbnotes>5</nbnotes>
+<speed>15</speed>
+<startingnote>-10</startingnote>
+</notereading>
+
+<notereading id = '2'>
+<message>Prossime cinque note: FA SOL LA SI DO</message>
+<game>learning</game>
+<learningduration>15</learningduration>
+<clef>bass</clef>
+<notes>notes</notes>
+<nbnotes>5</nbnotes>
+<speed>20</speed>
+<startingnote>-12</startingnote>
+</notereading>
+
+<notereading id = '3'>
+<message>Stesse note senza aiuto, fino al riempimento della barra sottostante</message>
+<game>normal</game>
+<clef>bass</clef>
+<notes>notes</notes>
+<nbnotes>3</nbnotes>
+<speed>15</speed>
+<startingnote>-12</startingnote>
+</notereading>
+
+<notereading id = '4'>
+<message>Prossime cinque note: RE MI FA SOL LA</message>
+<game>learning</game>
+<learningduration>15</learningduration>
+<clef>bass</clef>
+<notes>notes</notes>
+<nbnotes>5</nbnotes>
+<speed>20</speed>
+<startingnote>-14</startingnote>
+</notereading>
+
+<notereading id = '5'>
+<message>Stesse note senza aiuto, fino al riempimento della barra sottostante</message>
+<game>normal</game>
+<clef>bass</clef>
+<notes>notes</notes>
+<nbnotes>3</nbnotes>
+<speed>15</speed>
+<startingnote>-14</startingnote>
+</notereading>
+
+
+<notereading id = '6'>
+<message>Ora tutte le note, è necessario suonare la prima nota della linea</message>
+<game>inline</game>
+<clef>bass</clef>
+<notes>notes</notes>
+<nbnotes>9</nbnotes>
+<speed>25</speed>
+<startingnote>-12</startingnote>
+</notereading>
+
+</levels>

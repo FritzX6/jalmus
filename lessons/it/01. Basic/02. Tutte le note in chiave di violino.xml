@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+Document : All notes on treble clef.xml
+Created on : 18 avril 2007, 15:11
+Author : RICHARD Christophe
+Description: to learn all notes on treble clef
+-->
+
+<levels>
+<notereading id = '0'>
+<message>Per cominciare, lavoriamo su tutte le note in chiave di violino (SOL)</message>
+<game>learning</game>
+<learningduration>15</learningduration>
+<clef>treble</clef>
+<notes>notes</notes>
+<nbnotes>9</nbnotes>
+<speed>10</speed>
+<startingnote>0</startingnote>
+</notereading>
+
+<notereading id = '1'>
+<message>Ora le stesse note, senza aiuto - fino al riempimento della barra sottostante</message>
+<game>normal</game>
+<clef>treble</clef>
+<notes>notes</notes>
+<nbnotes>9</nbnotes>
+<speed>15</speed>
+<startingnote>0</startingnote>
+</notereading>
+
+<notereading id = '2'>
+<message>Tutte le note in linea, è necessario suonare la prima nota della linea</message>
+<game>inline</game>
+<clef>treble</clef>
+<notes>notes</notes>
+<nbnotes>9</nbnotes>
+<speed>20</speed>
+<startingnote>0</startingnote>
+</notereading>
+
+<notereading id = '3'>
+<message>Le stesse note, un'ottava sopra</message>
+<game>learning</game>
+<learningduration>15</learningduration>
+<clef>treble</clef>
+<notes>notes</notes>
+<nbnotes>9</nbnotes>
+<speed>10</speed>
+<startingnote>7</startingnote>
+</notereading>
+
+<notereading id = '4'>
+<message>Ora le stesse note, senza aiuto - fino al riempimento della barra sottostante</message>
+<game>normal</game>
+<clef>treble</clef>
+<notes>notes</notes>
+<nbnotes>9</nbnotes>
+<speed>15</speed>
+<startingnote>7</startingnote>
+</notereading>
+
+<notereading id = '5'>
+<message>Tutte le note in linea, è necessario suonare la prima nota della linea</message>
+<game>inline</game>
+<clef>treble</clef>
+<notes>notes</notes>
+<nbnotes>9</nbnotes>
+<speed>20</speed>
+<startingnote>7</startingnote>
+</notereading>
+
+</levels>

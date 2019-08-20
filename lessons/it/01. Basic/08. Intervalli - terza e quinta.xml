@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+Document : Intervals - third and fifth.xml
+Created on : 18 avril 2007, 15:11
+Author : RICHARD Christophe
+Description: interval level : third and fifth
+-->
+
+<levels>
+
+<notereading id = '0'>
+<message>Intervallo di terza in chiave di violino (SOL)</message>
+<game>normal</game>
+<clef>treble</clef>
+<notes>intervals</notes>
+<intervals>third</intervals>
+<speed>15</speed>
+</notereading>
+
+<notereading id = '1'>
+<message>Intervallo di quinta in chiave di violino (SOL)</message>
+<game>normal</game>
+<clef>treble</clef>
+<notes>intervals</notes>
+<intervals>fifth</intervals>
+<speed>15</speed>
+</notereading>
+
+<notereading id = '2'>
+<message>Intervallo di terza in chiave di basso (FA)</message>
+<game>normal</game>
+<clef>bass</clef>
+<notes>intervals</notes>
+<intervals>third</intervals>
+<speed>15</speed>
+</notereading>
+
+<notereading id = '3'>
+<message>Intervallo di quinta in chiave di basso (FA)</message>
+<game>normal</game>
+<clef>bass</clef>
+<notes>intervals</notes>
+<intervals>fifth</intervals>
+<speed>15</speed>
+</notereading>
+
+<notereading id = '4'>
+<message>Intervallo di terza in entrambe le chiavi (SOL e FA)</message>
+<game>inline</game>
+<clef>both</clef>
+<notes>intervals</notes>
+<intervals>third</intervals>
+<speed>25</speed>
+</notereading>
+
+<notereading id = '5'>
+<message>Intervallo di quinta in entrambe le chiavi (SOL e FA)</message>
+<game>inline</game>
+<clef>both</clef>
+<notes>intervals</notes>
+<intervals>fifth</intervals>
+<speed>25</speed>
+</notereading>
+
+</levels>
+
+
+
+
